@@ -1,4 +1,4 @@
-# SMART DISTANCE and ALERT #
+# SMART DISTANCE & ALERT #
 
 # Potentiometer
 ![potentiometer](https://user-images.githubusercontent.com/44058064/49787434-a9f71f00-fd61-11e8-9163-49be91692240.png)
