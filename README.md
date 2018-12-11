@@ -12,7 +12,7 @@ The code to understand the ultrasonic sensor and how it works.
 Using the LED as a trigger to alert the user it in presence of obstacle.
 
 # Blynk Apps
-![blynk_logo](https://user-images.githubusercontent.com/44058064/49787508-dad75400-fd61-11e8-9a07-e87515e74b6c.png)
+![blynk_logo](https://user-images.githubusercontent.com/44058064/49787765-7e286900-fd62-11e8-8136-92d5839a46bf.png)
 
 Connect the apps from the smartphone to the ESP8266.
 Making the project become a Internet of Things.
